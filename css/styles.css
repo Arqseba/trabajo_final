@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 body {
-  background: #837f83;
+  
   margin: 0;
   font-family: 'Poppins', sans-serif;
   background: linear-gradient(90deg, #14108d, #a513e9)
@@ -12,7 +12,7 @@ body {
 }
 
 .navbar {
-  background: #14108d;
+
   text-align: right;
   margin-top: 0;
   z-index: 3;
@@ -42,11 +42,7 @@ h2 a{
   padding: 1em 0;
 }
 
-#video{
 
-margin: -4.95em  5.5em;
-  
-}
 #empresa{
   text-align: center;
   justify-content: center;
@@ -122,7 +118,7 @@ margin: -4.95em  5.5em;
 
 .foot{
   
-  background: #837f83;
+  /*background: #837f83;*/
   margin: auto -7.2em;
   padding-top: 2em;
   padding-left: 7em;
@@ -170,4 +166,8 @@ label{
 
  .contacto{
   margin-bottom: 5em;
+}
+
+#content{
+  border-radius: .5em;
 }
