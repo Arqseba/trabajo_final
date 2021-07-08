@@ -3,11 +3,11 @@ body {
   
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(90deg, #14108d, #a513e9)
+  background: linear-gradient(90deg, #14108d, #a513e9);
 }
 
 .active{
-  background: #c207bc;
+  background: linear-gradient(270deg, #14108d, #a513e9);
   border-radius: .5em;
 }
 
@@ -105,7 +105,7 @@ h2 a{
 }
 
 .buttons{
-  background:#14108d;
+  background:linear-gradient(270deg, #14108d, #a513e9);
   border-radius: .5em;
  
   
