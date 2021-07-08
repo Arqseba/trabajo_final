@@ -57,10 +57,14 @@ h2 a{
 }
 .destacados{
   text-align: center;
-  margin-top: 7em;
-  color: white;
   
+  color: white;
+  background: linear-gradient(270deg, #14108d, #a513e9);;
   padding: 2em;
+  
+  border-radius: .5em;
+
+  margin: 8em 25em 2em 25em;
 }
 
 #content .product {
@@ -68,6 +72,7 @@ h2 a{
   border: solid 1px #858585;
   box-sizing: border-box;
   margin-bottom: 30px;
+  border-radius: .5em;
 }
 
 #content .product .text p.price {
